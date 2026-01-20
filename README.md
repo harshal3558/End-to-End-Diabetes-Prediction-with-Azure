@@ -1,0 +1,1 @@
+## End to End Diabetes Prediction using Azure Web App and Azure Container Registry
